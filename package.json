@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@types/node": "*",
+    "@types/react": "*"
+  },
+  "description": "TypeScript definitions for styled-components",
+  "main": "",
+  "name": "@types/styled-components",
+  "scripts": {},
+  "version": "0.0.1"
+}
